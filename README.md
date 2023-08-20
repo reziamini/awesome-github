@@ -38,6 +38,8 @@ We have listed some repositories that may help you to crack the interview!
 - [FAANG-Coding-Interview-Questions](https://github.com/ombharatiya/FAANG-Coding-Interview-Questions)
 - [Interview Room](https://github.com/ashuray/InterviewRoom)
 - [123-Essential-JavaScript-Interview-Questions](https://github.com/ganqqwerty/123-Essential-JavaScript-Interview-Questions)
+- [javascript-interview-questions](https://github.com/sudheerj/javascript-interview-questions)
+- [Awesome-JavaScript-Interviews](https://github.com/rohan-paul/Awesome-JavaScript-Interviews)
 - [the-coding-interview](https://github.com/mre/the-coding-interview)
 - [interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges)
 - [front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook)
