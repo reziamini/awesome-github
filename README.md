@@ -96,6 +96,7 @@ We have listed some repositories that may help you to crack the interview!
 - [ML For Beginners](https://github.com/microsoft/ML-For-Beginners)
 - [Awesome Certificates](https://github.com/PanXProject/awesome-certificates)
 - [WTFJS](https://github.com/denysdovhan/wtfjs)
+- [Git training](https://github.com/UnseenWizzard/git_training)
 
 ### Books
 
