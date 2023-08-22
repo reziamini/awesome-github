@@ -28,6 +28,7 @@ Here are a list of awesome repositories that contains project idea for developer
 - [awesome-project](https://github.com/gdcmarinho/awesome-project)
 - [projectlearn-project-based-learning](https://github.com/Xtremilicious/projectlearn-project-based-learning)
 - [Project-Ideas-And-Resources](https://github.com/The-Cool-Coders/Project-Ideas-And-Resources)
+- [BookStack](https://github.com/BookStackApp/BookStack)
 
 ### Interview
 We have listed some repositories that may help you to crack the interview!
@@ -73,6 +74,7 @@ We have listed some repositories that may help you to crack the interview!
 - [DB tools](https://github.com/mgramin/awesome-db-tools)
 - [Tools](https://github.com/lvwzhen/tools)
 - [awesome-devtools](https://github.com/moimikey/awesome-devtools)
+- [laravel ide helper](https://github.com/barryvdh/laravel-ide-helper)
 
 ### Learning
 
